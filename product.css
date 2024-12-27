@@ -76,6 +76,7 @@ body{
     border: 2px solid gray;
     padding: 15px;
     border-radius: 5px;
+    cursor: pointer;
 }
 .PDdiv1 img:first-child{
     border: 2px solid rgb(255, 253, 253);
@@ -157,12 +158,14 @@ justify-content: center;
     background-color:rgb(31, 26, 26);
     padding:5px 10px 5px 10px;
     margin: 60px;
+    cursor: pointer;
 }
 .PDbutton1{
     background-color:red;
     color:white;
     border-radius:2px;
     padding:5px 10px 5px 10px;
+    
 }
 .PDbutton2:hover,.PDbutton3:hover{ 
     background-color:red;
@@ -202,6 +205,7 @@ grid-template-columns: repeat(4,1fr);
     border: 2px solid gray;
     margin:5px;
     padding:5px;
+    cursor:pointer;
     /* justify-self: center; */         
 }
 .TPimgdiv{
@@ -245,6 +249,7 @@ grid-template-columns: repeat(4,1fr);
    border: none;
    height: 40px;
    font-size: 20px;
+   cursor:pointer;
 }
 .TPCartDiv1{
    text-align: center;
@@ -307,6 +312,7 @@ border:solid rgb(255, 14, 14);
 padding: 5px;
 color: white;
 border-radius: 5px;
+cursor: pointer;
 }
 .footerDiv1{
 width:500px;

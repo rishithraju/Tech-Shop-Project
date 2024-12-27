@@ -90,6 +90,7 @@ body{
     padding: 10px 20px 10px 20px;
     border-radius: 8px;
     border:solid rgb(31, 26, 26);
+    cursor:pointer;
 }
 .boat1{
     display:flex;
@@ -117,6 +118,7 @@ body{
      color:lightgrey;
      text-align: center;
      font-size: 35px;
+    
 }   
 .body2flex{
     display:flex;
@@ -125,28 +127,33 @@ body{
 .FPimg1{
     height: 100px;
     width:100px;
+    cursor:pointer;
 }
 .FPimg2{
     height: 175px;
     width: 185px;
     position: relative;
     right: 16px;
+    cursor:pointer;
 }
 .FPimg3{
     height:250px;
     width:250px;
     position: relative;
     right: 20px;
+    cursor:pointer;
 } 
 .FPimg4{
     height: 173px;
     width: 181px;
     position: relative;
     right: 17px;
+    cursor:pointer;
 }  
 .FPimg5{
     height: 100px;
     width:100px;
+    cursor:pointer;
 } 
 .FP1{
     position: relative;
@@ -154,6 +161,7 @@ body{
     top: 80px;
     width: 10%;
     top:100px;
+    cursor:pointer;
 } 
 .FP2{
     position: relative;
@@ -162,12 +170,14 @@ body{
     top: 65px;
     font-size:large;
     width: 15%;
+    cursor:pointer;
 }
 .FP3{
     position: relative;
     left:226px;
     height: 400px;
     font-size:x-large;
+    cursor:pointer;
 }
 .FP4{
     position: relative;
@@ -176,6 +186,7 @@ body{
     top: 65px;
     font-size:large;
     width: 15%;
+    cursor:pointer;
 }
 .FP5{
     position: relative;
@@ -183,6 +194,7 @@ body{
     top:80px;
     width: 10%;
     top:100px;
+    cursor:pointer;
 }
 .JBL1,.JBL2,.JBL3,.JBL4,.JBL5{
     display:flex;  
@@ -264,12 +276,14 @@ body{
     color:white;
     border-radius:2px;
     padding:5px 10px 5px 10px;
+    cursor: pointer;
 }
 .TPbutton2:hover,.TPbutton3:hover,.TPbutton4:hover,.TPbutton5:hover{ 
     background-color:red;
     color:white;
     transition-delay:5ms;
     border-radius:2px;
+    cursor:pointer;
 }
 .body4{
     display: grid;
@@ -284,6 +298,7 @@ body{
     border: 2px solid gray;
     margin:5px;
     padding:5px;
+    cursor: pointer;
     /* justify-self: center; */         
 }
 .TPimgdiv{
@@ -327,6 +342,7 @@ body{
     border: none;
     height: 40px;
     font-size: 20px;
+    cursor: pointer;
 }
 .TPCartDiv1{
      text-align: center;
@@ -411,6 +427,7 @@ footer button{
     padding: 5px;
     color: white;
     border-radius: 5px;
+    cursor: pointer;
 }
 .footerDiv1{
     width:500px;
